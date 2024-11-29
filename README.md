@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Swapnil Bajetha] 👋
+# Hi there, I'm Swapnil Bajetha 👋
 
 Welcome to my GitHub profile! I’m a **Software Development Enthusiast** with a passion for building scalable systems, optimizing performance, and working on full-stack applications. I enjoy leveraging the latest technologies to create real-world solutions and improve user experiences. 🚀
 
